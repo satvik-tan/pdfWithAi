@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>PDF with AI</h1>
       </header>
       <MainComponent />
     </div>
